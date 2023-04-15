@@ -1,3 +1,5 @@
+![](https://github.com/mateus-holanda/ui-spotify/blob/main/spotify.gif?raw=true)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). The goal is to recreate the Spotify interface using only [TailwindCSS](https://tailwindcss.com/) for styling.
 
 ## Getting Started
